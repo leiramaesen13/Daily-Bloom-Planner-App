@@ -1,4 +1,4 @@
-🌸 Daily Bloom Planner — Web Application
+# Daily-Bloom-Planner-Web App 🌸 
 
 Daily Bloom Planner is an interactive web-based productivity application developed using HTML, CSS, and JavaScript. It is designed with a soft lavender and minimalist aesthetic to help users organize their daily activities, monitor habits, and reflect on their day.
 
