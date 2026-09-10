@@ -4,24 +4,24 @@ Daily Bloom Planner is an interactive web-based productivity application develop
 
 The application provides an interactive digital version of the “Today's Bloom” planner, where users can enter and manage their information directly through the web interface.
 
-Key Features
-Today's Priorities – Users can enter their three main priorities for the day.
-Daily Schedule – Provides editable hourly time slots from 6:00 AM to 10:00 PM.
-To-Do List – Users can add, complete, and remove tasks.
-Water Intake Tracker – Users can click the water droplets to record their water intake.
-Meal Tracker – Users can record their breakfast, lunch, dinner, and snacks.
-Mood Tracker – Users can select their current mood.
-Notes – Provides a space for writing reminders, thoughts, or important information.
-Gratitude Section – Allows users to write something they are grateful for.
-Automatic Saving – Information is saved in the browser using JavaScript browser storage.
-Reset Function – Allows users to clear their current planner data and begin a new day.
-💻 Development
+Main Features:
+🌷 Today’s Priorities — Add up to three important tasks or goals for the day.
+🕐 Daily Schedule — Plan activities using hourly time slots from 6:00 AM to 10:00 PM.
+📝 To-Do List — Add tasks, mark completed tasks, and remove tasks you no longer need.
+💧 Water Intake — Click the water droplets to track your daily water consumption.
+🍽️ Meals — Record what you had for breakfast, lunch, dinner, and snacks.
+🌈 Mood Tracker — Choose from different moods such as Great, Good, Okay, Low, and Rough.
+📖 Notes — Write down thoughts, reminders, ideas, or anything you want to remember.
+💜 Gratitude — Record something you are grateful for each day.
+💾 Automatic Saving — Your entries are automatically saved in your browser, so your planner remains available when you return.
+🔄 Reset — A simple reset option allows you to clear the current day's planner and start fresh.
 
-The application is developed using:
+🌸 Purpose of the App
 
-HTML – Structure and content of the application
-CSS – Lavender-themed design, layout, typography, and responsive interface
-JavaScript – Interactivity, task management, water tracking, mood selection, and automatic data saving
-Visual Studio Code – Development environment
-GitHub – Repository and version control
-GitHub Pages / Web Hosting – Can be used to publish the application online with a real URL
+The goal of Daily Bloom Planner is to make daily planning feel calm, organized, and enjoyable rather than overwhelming. It combines productivity with self-care by allowing users to manage their schedule and responsibilities while also tracking water intake, meals, mood, notes, and gratitude.
+
+“Plan gently, live fully.”
+
+The app is designed for people who want a peaceful digital planner that helps them stay organized, build healthy habits, reflect on their day, and make small daily progress.
+
+
